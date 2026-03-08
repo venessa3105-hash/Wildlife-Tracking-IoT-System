@@ -33,7 +33,7 @@ The system:
 
 ## 🧠 System Architecture
 
-![Block Diagram](images/block diagram.png)
+![Block Diagram](images/block_diagram.png)
 
 The system consists of three main layers:
 
